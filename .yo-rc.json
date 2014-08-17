@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Ember.js and Ember-CLI Awesomeness",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "calebrosario",
+    "githubRepository": "reveal-ember-intro"
+  }
+}

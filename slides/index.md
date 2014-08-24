@@ -1,10 +1,7 @@
 
-# Ember.js and Ember-CLI Awesomeness
+#The Magic of Ember
 
-From the terminal, pop in:
+Ember.js and Ember-CLI Awesomeness
 
-  ```yo reveal:slide "Slide Title"```
+By: Caleb Rosario
 
-Available options:
-
- ```--markdown --attributes --notes```

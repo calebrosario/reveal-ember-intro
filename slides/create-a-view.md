@@ -1,3 +1,16 @@
 ##  Create a View
 
-This is a new Markdown slide
+####Original
+```
+App.TodoView = Ember.View.extend();
+```
+
+
+####Ember-CLI Generator
+```
+ember generate view todo 
+```
+
+
+
+

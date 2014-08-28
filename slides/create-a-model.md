@@ -6,9 +6,7 @@ Ember Object Model
 ####Original
 ```
 //Create Todo Model
-App.Todo = Ember.Object.extend(
-	
-);
+App.Todo = Ember.Object.extend();
 ```
 
 Ember-Data Model

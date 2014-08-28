@@ -1,24 +1,10 @@
 ##  convention over configuration
 
 
-```
-//Create Application with App Namespace
-var App = Ember.Application.create();
+| Route Name      | Controller            | Route           | Template    |
+| --------------- |:--------------------- |:--------------- |:----------- |
+| todos           | TodosController       | TodosRoute      | todos       |
+| todos.create    | TodosCreateController | TodosCreateRoute| todos/create|
+| todo            | TodoController        | TodoRoute       | todo        |
 
-//Create Todo Model
-App.Todo = Ember.Object.extend(); // or App.Todo = DS.Model.extend();
-
-//Create Todo View
-App.TodoView = Ember.View.extend();
-
-//Create Todo Controller
-App.TodoController = Ember.Controller.extend();
-
-//Create Todo Route
-App.TodoRoute = Ember.Route.extend();
-
-App.Router.map(
-	this.route('todos');
-);
-
-```
+Source: [ Ember Guides: Naming Conventions](http://emberjs.com/guides/concepts/naming-conventions/)

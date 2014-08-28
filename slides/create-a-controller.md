@@ -1,3 +1,15 @@
 ##  Create a Controller
 
-This is a new Markdown slide
+####Original
+```
+App.TodoController = Ember.Controller.extend();
+```
+
+
+####Ember-CLI Generator
+```
+ember generate controller todo 
+```
+
+
+

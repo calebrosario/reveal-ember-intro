@@ -75,5 +75,12 @@
     [
         "what-are-helpers.md",
         "create-a-helper.md"
+    ],
+    [
+        "workflow-in-ember.md",
+        "ember-cli-generators.md",
+        "broccolijs.md",
+        "didnt-forget-about-grunt.md",
+        "testing-with-ember.md"
     ]
 ]
